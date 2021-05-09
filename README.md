@@ -27,3 +27,25 @@
 
   Saya membuat file php baru dengan nama <i>latihan2.php</i> dengan memasukkan kode seperti pada gambar. Kemudian dengan kode pemanggilan tersebut, variabel <i>"nama"</i> akan terpanggil.
 
+# **Membuat Form Input</b>**
+  ![1 Form Input](https://user-images.githubusercontent.com/56438848/117563769-5031e500-b0d2-11eb-8964-50d114546f20.JPG)
+
+
+# **Operator</b>**
+  ![2 Operator Gaji](https://user-images.githubusercontent.com/56438848/117563770-50ca7b80-b0d2-11eb-838c-bb6f7fcaedbf.JPG)
+
+
+# **Kondisi IF dan Switch</b>**
+  ![3 IF dan Switch](https://user-images.githubusercontent.com/56438848/117563771-51631200-b0d2-11eb-97df-1e5afb664075.JPG)
+
+
+# **Perulangan For</b>**
+  ![4 Perulangan For](https://user-images.githubusercontent.com/56438848/117563773-51fba880-b0d2-11eb-86b9-cb10ee0b0e05.JPG)
+
+
+# **Perulangan While</b>**
+  ![5 Perulangan While](https://user-images.githubusercontent.com/56438848/117563774-532cd580-b0d2-11eb-821a-5bf4c49e6cd0.JPG)
+
+
+# **Perulangan DoWhile</b>**
+  ![6 Perulangan DoWhile](https://user-images.githubusercontent.com/56438848/117563767-4e682180-b0d2-11eb-9c18-5946d364a0b9.JPG)
