@@ -49,3 +49,24 @@
 
 # **Perulangan DoWhile</b>**
   ![6 Perulangan DoWhile](https://user-images.githubusercontent.com/56438848/117563767-4e682180-b0d2-11eb-9c18-5946d364a0b9.JPG)
+
+# **Form Sederhana**<br/>
+
+# **Input**
+
+![Code Input](https://user-images.githubusercontent.com/56438848/117849174-3d740780-b2ae-11eb-9753-91ceb46d885f.JPG)
+
+![Form Input](https://user-images.githubusercontent.com/56438848/117848626-aad36880-b2ad-11eb-8af4-049a786c419e.JPG)
+
+
+
+# **Output**
+
+![Code Output1](https://user-images.githubusercontent.com/56438848/117849190-41078e80-b2ae-11eb-82b3-d7d35c2793cc.JPG)
+
+![Code Output2](https://user-images.githubusercontent.com/56438848/117849196-4238bb80-b2ae-11eb-9c28-3693bb8bc8ea.JPG)
+
+![Form Output](https://user-images.githubusercontent.com/56438848/117848617-a909a500-b2ad-11eb-916f-31be2e7d23d1.JPG)
+
+
+
