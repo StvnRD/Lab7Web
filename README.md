@@ -25,7 +25,7 @@
   
   ![4](https://user-images.githubusercontent.com/56438848/117562751-8d46a900-b0cb-11eb-9fef-8289d3e5ba8e.JPG)
 
-  Saya membuat file php baru dengan nama <i>latihan2.php</i> dengan memasukkan kode seperti pada gambar. Kemudian dengan kode pemanggilan tersebut, variabel <i>"nama"</i> akan terpanggil. Tambahkan ?nama=<i>namakamu</i> untuk mengaksesnya.
+  Saya membuat file php baru dengan nama <i>latihan2.php</i> dengan memasukkan kode seperti pada gambar. Kemudian dengan kode pemanggilan tersebut, variabel <i>"nama"</i> akan terpanggil. Tambahkan   <b>?nama=<i>namakamu</i></b>    untuk mengaksesnya.
 
 # **Membuat Form Input</b>**
   ![1 Form Input](https://user-images.githubusercontent.com/56438848/117563769-5031e500-b0d2-11eb-8964-50d114546f20.JPG)
